@@ -1,8 +1,8 @@
 ### Olá! eu sou o Matheus Moraes 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-moraes-98b700179/)
-[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/matheusmoraes25)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omatheusmoraess/)
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/matheusmoraes25)
 
 ![Omatheusmoraes GitHub stats](https://github-readme-stats.vercel.app/api?username=omatheusmoraes&show_icons=true&theme=tokyonight)
 
